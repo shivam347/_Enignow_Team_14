@@ -1,6 +1,9 @@
 # Dependencies
 node_modules/
 
+#vs code settings
+.vscode\
+
 # Environment variables
 .env
 .env.*
